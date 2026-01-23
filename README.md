@@ -9,3 +9,4 @@ aiot 프로그래밍
   +pandas
   +matplotlib
   +tensorFlow
+  +keras
