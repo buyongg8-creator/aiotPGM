@@ -5,8 +5,8 @@ aiot 프로그래밍
 * ### open cv
 * ### YOLO
 * ### AI PGM
-  +numpy
-  +pandas
-  +matplotlib
-  +tensorFlow
-  +keras
+  + numpy
+  + pandas
+  + matplotlib
+  + tensorFlow
+  + keras
