@@ -16,3 +16,7 @@ NumPy, Pandas, Matplotlib, TensorFlow, Keras를 학습하며
 ---
 
 ## 📁 폴더 구조
+ - 변수란? 함수
+ - 모듈까지는 기본이다.
+ - 명령어들의 모임
+ - 
