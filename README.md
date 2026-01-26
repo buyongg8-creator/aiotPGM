@@ -15,6 +15,8 @@ NumPy, Pandas, Matplotlib, TensorFlow, Keras를 학습하며
 
 ---
  - https://ftpserver.ksecole.kr/files/
+ - https://wikidocs.net/book/1
+ - 
 ## 📁 폴더 구조
  - 함수란? 변수+명령한것이며 재사용하기위해 사용함
  - 모듈까지는 기본이다.
@@ -43,3 +45,5 @@ NumPy, Pandas, Matplotlib, TensorFlow, Keras를 학습하며
 
  - [ 결과식  for  반복  if조건 ] 형식으로 범위설정하고 if문 돌리는개 가능하다
  - 
+ - 튜플은? 멀티리턴하면 리스트처럼 하나로 묶어서 출력해줌
+ - 하지만 튜플은 변경불가!!!
